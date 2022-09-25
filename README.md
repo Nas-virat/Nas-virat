@@ -12,6 +12,10 @@
 - ⚡ Fun fact **Full time Life Long Learner**
 
 <h3 align="left">Connect with me:</h3>
+
+<a href="https://www.sitepoint.com/github-profile-readme/https://www.linkedin.com/in/napas-vinitnantharat-483467202/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 <p align="left">
 </p>
 
