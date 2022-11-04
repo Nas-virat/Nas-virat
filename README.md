@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Napas.vin@gmail.com**
 
-- ⚡ Fun fact **Full time Life Long Learner**
+- ⚡ work as a **Full time Life Long Learner**
 
 <h3 align="left">Connect with me:</h3>
 
