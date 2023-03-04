@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m from **Thailand** 🇹🇭 🇹🇭 🇹🇭
-- 👋 Hi, my name is **Napas** *(pa-ni-ti)*. My nickname is **Fang**!
+- 👋 Hi, my name is **Napas** . My nickname is **Fang**!
 - 📫 How to reach me **Napas.vin@gmail.com**
 
 - ⚡ work as a **Full time Life Long Learner**
