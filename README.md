@@ -5,7 +5,7 @@
 
 - 🌱 I’m from **Thailand** 🇹🇭 🇹🇭 🇹🇭
 - 👋 Hi, my name is **Napas** . My nickname is **Fang**!
-- 🤔 Interested in Programming ,cool Data Visualization, Business and Finance. 
+- 🤔 Interested in Programming ,cool Data Visualization, math, Business and Finance. 
 - 🌍 I'm Kind a person who love explore the world and understand How the world is really work ?. I also like to understand business and finance.In my free time I like to apply my programming skill to make thing easier such as create a [portfolio simulation stuff](https://github.com/Nas-virat/SPFNA-stock-idea). 
 - 📫 How to reach me **Napas.vin@gmail.com**
 
