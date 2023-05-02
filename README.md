@@ -16,6 +16,9 @@
 <a href="https://www.linkedin.com/in/napas-vinitnantharat-483467202/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
+<a href="https://myportfolio-rho-two.vercel.app/">
+  portfolio website
+</a>
 <p align="left">
 </p>
 <br/>
