@@ -8,7 +8,7 @@
 - 🤔 Interested in Programming ,cool Data Visualization, math, Business and Finance. 
 - 🌍 I'm Kind a person who love explore the world and understand How the world is really work ?. I also like to understand business and finance.In my free time I like to apply my programming skill to make thing easier such as create a [portfolio simulation stuff](https://github.com/Nas-virat/SPFNA-stock-idea). 
 - 📫 How to reach me **Napas.vin@gmail.com**
-
+- My portfolio [website](https://myportfolio-rho-two.vercel.app)  
 - ⚡ work as a **Full time Life Long Learner**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,9 +16,7 @@
 <a href="https://www.linkedin.com/in/napas-vinitnantharat-483467202/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-<a href="https://myportfolio-rho-two.vercel.app/">
-  portfolio website
-</a>
+<br/>
 <p align="left">
 </p>
 <br/>
