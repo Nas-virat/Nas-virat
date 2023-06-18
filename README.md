@@ -5,10 +5,10 @@
 
 - 🌱 I’m from **Thailand** 🇹🇭 🇹🇭 🇹🇭
 - 👋 Hi, my name is **Napas** . My nickname is **Fang**!
-- 🤔 Interested in Programming ,cool Data Visualization, math, Business and Finance. 
-- 🌍 I'm Kind a person who love explore the world and understand How the world is really work ?. I also like to understand business and finance.In my free time I like to apply my programming skill to make thing easier such as create a [portfolio simulation stuff](https://github.com/Nas-virat/SPFNA-stock-idea). 
+- 🤔 Interested in Programming ,mathematic, Business and Finance. 
+- 🌍 I'm Kind a person who love explore the world and understand How the world is really work ?. I also like to understand business and finance.In my free time I like to apply my programming skill to make life easier such as create a [portfolio simulation stuff](https://github.com/Nas-virat/SPFNA-stock-idea).
 - 📫 How to reach me **Napas.vin@gmail.com**
-- My portfolio [website](https://myportfolio-rho-two.vercel.app)  
+- My portfolio [website](https://napasvin.vercel.app/)
 - ⚡ work as a **Full time Life Long Learner**
 
 <h3 align="left">Connect with me:</h3>
