@@ -28,8 +28,6 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nas-virat&layout=compact&theme=dark)](https://github.com/nas-virat/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nas-virat&show_icons=true&theme=dark)
 
 
 
