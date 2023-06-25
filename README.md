@@ -31,6 +31,9 @@
   </a>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nas-virat&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+![Nas-virat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nas-virat&show_icons=true&theme=dracula&count_private=true)
+
 
 
 
