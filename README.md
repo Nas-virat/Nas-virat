@@ -9,7 +9,7 @@
 - 🌍 I'm Kind a person who love explore the world and understand How the world is really work ?. I also like to understand business and finance.In my free time I like to apply my programming skill to make life easier such as create a [portfolio simulation stuff](https://github.com/Nas-virat/SPFNA-stock-idea).
 - 📫 How to reach me **Napas.vin@gmail.com**
 - My portfolio [website](https://napasvin.vercel.app/)
-- ⚡ work as a **Full time Life Long Learner**
+- ⚡ work as a **Full Stack Developer , Data Analyst**
 
 <h3 align="left">Connect with me:</h3>
 
