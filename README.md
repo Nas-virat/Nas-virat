@@ -26,14 +26,14 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <h4 align="left">Frontend Development:</h4>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,materialui,bootstrap,figma,react,nextjs,vue," />
   </a>
 </p>
 
 <h4 align="left">Backend Development:</h4>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=linux,bash,go,nodejs,express,linux,bash,mongodb,mysql,docker,git,postman" />
   </a>
@@ -41,7 +41,7 @@
 
 
 <h4 align="left"> Data Analyst / Data Science / Data Engineer:</h4>
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,r,selenium" />
   </a>
