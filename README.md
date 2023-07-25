@@ -25,11 +25,28 @@
 <br/>
 <h3 align="left">Languages and Tools:</h3>
 
+<h4 align="left">Frontend Development:</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,materialui,bootstrap,figma,react,nextjs,vue,go,nodejs,express,linux,bash,mongodb,mysql,c,cpp,cmake,docker,git,postman,py,r,selenium,vscode" />
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,materialui,bootstrap,figma,react,nextjs,vue," />
   </a>
 </p>
+
+<h4 align="left">Backend Development:</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,go,nodejs,express,linux,bash,mongodb,mysql,docker,git,postman" />
+  </a>
+</p>
+
+
+<h4 align="left"> Data Analyst / Data Science / Data Engineer:</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,r,selenium" />
+  </a>
+</p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nas-virat&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 ![Nas-virat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nas-virat&show_icons=true&theme=dracula&count_private=true)
