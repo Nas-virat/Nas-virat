@@ -48,10 +48,17 @@
 </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nas-virat&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-![Nas-virat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nas-virat&show_icons=true&theme=dracula&count_private=true)
+<div align="center">
+  <a href="https://github.com/Nas-virat">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nas-virat&theme=apprentice" />
+  </a>
+  
+</div>
 
-
-
-
+<div align="center">
+  <a href="https://github.com/Nas-virat">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nas-virat&theme=apprentice" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nas-virat&theme=apprentice" />
+  </a>
+</div>
 
