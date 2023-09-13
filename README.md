@@ -35,7 +35,7 @@
 <h4 align="left">Backend Development:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,go,nodejs,express,mongodb,mysql,docker,git,postman" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,go,nodejs,express,mongodb,mysql,redis,docker,git,postman" />
   </a>
 </p>
 
@@ -43,7 +43,7 @@
 <h4 align="left"> Data Analyst / Data Science / Data Engineer:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,r,selenium" />
+    <img src="https://skillicons.dev/icons?i=py,r,tensorflow,selenium" />
   </a>
 </p>
 
