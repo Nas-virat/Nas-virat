@@ -45,6 +45,7 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,r,tensorflow,selenium" />
   </a>
+  <a href="https://lookerstudio.google.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="looker"  style="height: 3rem"/> </a>
 </p>
 
 
