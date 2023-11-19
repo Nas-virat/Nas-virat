@@ -35,7 +35,7 @@
 <h4 align="left">Backend Development:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,go,nodejs,express,mongodb,mysql,postgres,redis,docker,git,postman" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,go,java,spring,nodejs,express,mongodb,mysql,postgres,redis,docker,git,postman" />
   </a>
 </p>
 
