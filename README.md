@@ -34,7 +34,14 @@
 <h4 align="left">Backend Development:</h4>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,go,java,spring,nodejs,express,mongodb,mysql,postgres,redis,docker,git,postman" />
+    <img src="https://skillicons.dev/icons?i=linux,bash,go,java,spring,nodejs,express,mongodb,mysql,postgres,redis,kafka,postman" />
+  </a>
+</p>
+
+<h4 align="left">DevOps Tools:</h4>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,openshift,githubactions" />
   </a>
 </p>
 
