@@ -1,6 +1,41 @@
 <h1 align="center">Hi 👋, I'm Napas Vinitnantharat</h1>
 <h3 align="center">Full Stack Developer </h3>
 
+```go
+package main
+
+import "fmt"
+
+type Me struct {
+	Name     string
+	Nickname string
+	Country  string
+	Coding   bool
+	Coffee   int
+}
+
+func main() {
+	me := Me{
+		Name:     "Napas Vinitnantharat",
+		Nickname: "Fang",
+		Country:  "Thailand 🇹🇭",
+		Coding:   true,
+		Coffee:   999, // daily requirement
+	}
+
+	fmt.Printf("👋 Hi, I'm %s (%s) from %s.\n", me.Name, me.Nickname, me.Country)
+
+	if me.Coding {
+		fmt.Println("💻 Currently coding... probably fixing bugs I created 5 minutes ago.")
+	}
+
+	if me.Coffee > 100 {
+		fmt.Println("☕ Running on coffee and dreams.")
+	}
+
+	fmt.Println("📫 Contact me: Napas.vin@gmail.com")
+}
+```
 
 - 🌱 I’m from **Thailand** 🇹🇭 🇹🇭 🇹🇭
 - 👋 Hi, my name is **Napas** . My nickname is **Fang**!
